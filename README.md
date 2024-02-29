@@ -1,2 +1,1 @@
-# 4clone
-...
+# This repo have only master branch!
